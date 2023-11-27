@@ -24,7 +24,7 @@ body {
     background-color: rgb(199, 240, 199);
     margin: 1vw;
     padding: 20px;
-    height: 10vw;
+    max-height: 10vw;
     border-radius: 10px;
 
     display: flex;
